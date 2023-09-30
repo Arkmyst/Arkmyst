@@ -1,22 +1,20 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Arkmyst.Arkmyst&left_text=Page%20Visitors" />
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asrar+Syed!;" />
-</h3>
-<hr/>
-<h2 align="center">I'm a Sophomore at Georgia State University</h2>
-
 <br/>
 
-<div align="center">
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=cba6f7&size=35&center=true&vCenter=true&width=1100&duration=4000&lines=Hello+There!+👋;+I'm+Asrar+Syed!;I'm+20+years+old!;I'm+a+CS+major!;Welcome!+Feel+free+to+look+around!)](https://git.io/typing-svg)
+
+<hr/>
+<h3 align="center">I'm a Sophomore at Georgia State University</h3>
+
+<div align="center" style="inline-block"> 
+<br/>
+
  🔭 I’m currently working on **personal projects**
  
  🌱 I’m currently learning **Python, Java, Lua, Nvim**
 
  🤝 I’m actively looking for internship opportunities for **Summer of 2024**
  
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:asyed23@student.gsu.edu">
@@ -26,14 +24,19 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,lua,cs" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,unity,dotnet,linkedin,stackoverflow,vim,neovim" />
+
+<hr/>
+ 
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+
+<div align="center" style="inline-block"> 
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,lua,cs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,unity,dotnet,linkedin,vim,neovim)](https://skillicons.dev)
+
 </div>
 
 <br/>
@@ -48,7 +51,7 @@
 -->
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Github Stats ⚡</h3>
 <br>
 
 <div align=center>
@@ -59,8 +62,4 @@
 <br/><br/>
 <hr/>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=cba6f7&size=35&center=true&vCenter=true&width=1100&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab!+😄)](https://git.io/typing-svg)
