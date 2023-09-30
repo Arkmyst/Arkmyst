@@ -1,8 +1,8 @@
-<br/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=cba6f7&size=35&center=true&vCenter=true&width=1100&duration=4000&lines=Hello+There!+👋;+I'm+Asrar+Syed!;I'm+20+years+old!;I'm+a+CS+major!;Welcome!+Feel+free+to+look+around!)](https://git.io/typing-svg)
 
-<hr/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
 <h3 align="center">I'm a Sophomore at Georgia State University</h3>
 
 <div align="center" style="inline-block"> 
@@ -26,7 +26,7 @@
 </div>
 <br/>
 
-<hr/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
  
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 
@@ -49,7 +49,7 @@
   <br/><br/><br/>
 </div>
 -->
-<hr/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
 
 <h3 align="center">⚡ Github Stats ⚡</h3>
 <br>
@@ -60,6 +60,8 @@
 </div>
 
 <br/><br/>
-<hr/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=cba6f7&size=35&center=true&vCenter=true&width=1100&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab!+😄)](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
