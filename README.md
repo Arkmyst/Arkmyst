@@ -1,4 +1,4 @@
-<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=Arkmyst.Arkmyst](https://visitor-badge.laobi.icu/badge?page_id=Arkmyst.Arkmyst&left_text=My%20Page%20Visitors)" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Arkmyst.Arkmyst&left_text=Page%20Visitors" />
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asrar+Syed!;" />
@@ -32,7 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,python,java,lua,javascript,css,nodejs,c" /><br>
+    <img src="https://skillicons.dev/icons?i=python,html,lua,cs" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,unity,dotnet,linkedin,stackoverflow,vim,neovim" />
 </div>
 
 <br/>
