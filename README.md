@@ -33,13 +33,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   
-  <a href="mailto:asyed23@student.gsu.edu">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/arkmyst" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  
 </div>
 
 <br/>
@@ -57,16 +50,15 @@
 
 </div>
 
-<br/>
 <!--
-<hr/>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h3>MY CONTRIBUTIONS</h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Arkmyst/Arkmyst/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 -->
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
 
 <h3 align="center">GITHUB STATS</h3>
@@ -77,7 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkmyst&hide_title=true&langs_count=8&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </div>
 
-<br/><br/>
+<br/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header"/>
 
 <br/>
