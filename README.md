@@ -35,11 +35,11 @@
 -->
 
 <p align="center">
-  <a href="mailto:asyed23@student.gsu.edu"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;&nbsp;
-  <a href="mailto:01asrar.syed@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;&nbsp;
-  <a href="https://arkmyst.github.io/"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="34" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/asrarsyed/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Arkmyst/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="30" /></a>&nbsp;&nbsp;
+  <a href="mailto:asyed23@student.gsu.edu"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="28" /></a>&nbsp;&nbsp;
+  <a href="mailto:01asrar.syed@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" /></a>&nbsp;&nbsp;
+  <a href="https://arkmyst.github.io/"><img src="https://img.shields.io/badge/-My_Website-B8BDF3?style=for-the-badge&logo=About.me&logoColor=333333" height="28" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/asrarsyed/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Arkmyst/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="28" /></a>&nbsp;&nbsp;
 </p>
 
 <!--
